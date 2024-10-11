@@ -10,6 +10,7 @@ def register_embedding_models(register):
         "jina-embeddings-v2-small-en",
         "jina-embeddings-v2-base-en",
         "jina-embeddings-v2-large-en",
+        "jina-embeddings-v3"
     ):
         register(JinaEmbeddingModel(model_id))
 
