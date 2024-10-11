@@ -28,7 +28,7 @@ This plugin adds support for three new embedding models:
 - [`jina-embeddings-v2-small-en`](https://huggingface.co/jinaai/jina-embeddings-v2-small-en): 33 million parameters.
 - [`jina-embeddings-v2-base-en`](https://huggingface.co/jinaai/jina-embeddings-v2-base-en): 137 million parameters.
 - [`jina-embeddings-v2-large-en`](https://huggingface.co/jinaai/jina-embeddings-v2-large-en): 435 million parameters - not yet released, but it will work once it has been released.
-- [`jinaai/jina-embeddings-v3`](https://huggingface.co/jinaai/jina-embeddings-v3): Multilingual Embeddings With Task LoRA 
+- [`jinaai/jina-embeddings-v3`](https://huggingface.co/jinaai/jina-embeddings-v3): 570 million parameters - multilingual Embeddings With Task LoRA 
 
 The models will be downloaded the first time you try to use them.
 
