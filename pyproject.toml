@@ -12,6 +12,7 @@ dependencies = [
     "llm",
     "transformers",
     "torch",
+    "einops"
 ]
 
 [project.urls]
